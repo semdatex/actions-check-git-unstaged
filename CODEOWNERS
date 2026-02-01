@@ -1,1 +1,4 @@
-* @qualifyze/dev-people
+# GitHub Action for checking unstaged git changes
+* @semdatex/developers-chapter-platform-eng
+# Security-sensitive files
+CODEOWNERS @semdatex/developers-infosec
